@@ -1,6 +1,13 @@
 package perkenalan_mahasiswa_oop;
 
-public class Main {
+/**
+ * @author
+ * NAMA     : Muhammad Anggawan Ridho Islami
+ * KELAS    : IF 10K
+ * NIM      : 10119909
+ */
+
+public class PBO10K10119909Latihan31 {
 
     public static void main(String[] args) {
         Mahasiswa mhs1 = new Mahasiswa();
